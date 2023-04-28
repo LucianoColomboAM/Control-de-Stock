@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td>Tecnologias</td>
-    <td>VB.NET, MySQL, SQL Server Management 19</td>
+    <td><ol><li>VB.NET</li><li>MySQL</li>  <li>SQL Server Management 19 </li> <li>Uso de windows Forms</li></td>
   </tr>
   <tr>
     <td>Marco</td>
@@ -15,7 +15,14 @@
   </tr>
   <tr>
     <td>Descripcion del proyecto</td>
-    <td> Programa de control de Stock con ALTA, BAJA Y MODIFCIACION de Clientes, Productos y ventas, almacenamiento con SQL en Base de Datos, Generacion de reportes de productos y ventas. Uso de windows Forms </td>
+    <td> <ol>
+      
+      <li>Programa de control de Stock con ALTA, BAJA Y MODIFCIACION de Clientes, Productos y ventas</li>
+      <li>Almacenamiento con SQL en Base de Datos</li>
+      <li> Generacion de reportes de productos y ventas.</li>
+
+      </ol>  
+    </td>
   </tr>
   <tr>
     <td>Informacion Adicional</td>
