@@ -17,12 +17,11 @@
     <td>Descripcion del proyecto</td>
     <td> 
       <ul>
-      
       <li>Programa de control de Stock con ALTA, BAJA Y MODIFCIACION de Clientes, Productos y ventas</li>
       <li>Almacenamiento con SQL en Base de Datos</li>
       <li> Generacion de reportes de productos y ventas.</li>
-
       </ul>  
+      
     </td>
   </tr>
   <tr>
