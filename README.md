@@ -22,7 +22,7 @@
       <li> Generacion de reportes de productos y ventas.</li>
       </ul>  
       
-    </td>
+ 
   </tr>
   <tr>
     <td>Informacion Adicional</td>
