@@ -3,7 +3,19 @@
 <table border= 1px>
   <tr>
   <td>Titulo</td>
-    <td>Control de stock</td>
+ <td>/td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+  </tr>
+  <tr>
+    <td>Marco</td>
+  </tr>
+  <tr>
+    <td>Descripcion del proyecto</td>
+  </tr>
+  <tr>
+    <td>Informacion Adicional</td>
   </tr>
 
 </table>
