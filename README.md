@@ -15,13 +15,14 @@
   </tr>
   <tr>
     <td>Descripcion del proyecto</td>
-    <td> <ol>
+    <td> 
+      <ul>
       
       <li>Programa de control de Stock con ALTA, BAJA Y MODIFCIACION de Clientes, Productos y ventas</li>
       <li>Almacenamiento con SQL en Base de Datos</li>
       <li> Generacion de reportes de productos y ventas.</li>
 
-      </ol>  
+      </ul>  
     </td>
   </tr>
   <tr>
