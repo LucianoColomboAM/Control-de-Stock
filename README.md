@@ -1,9 +1,10 @@
 # Control-de-Stock
 
-<table>
-  <th>
-  <td>Title</td>
-  </th>
+<table border= 1px>
+  <tr>
+  <td>Titulo</td>
+    <td>Control de stock</td>
+  </tr>
 
 </table>
 
